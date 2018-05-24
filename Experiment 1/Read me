@@ -1,2 +1,7 @@
-This folder contains raw data for experiment 1 (Effects of auditory distractors on tactile flutter discrimination)
-Files are in .mat format
+This folder contains data from experiment 1 (Effects of auditory distractors on tactile flutter discrimination)
+Data are organized in matrices
+"Exp_1_PSE.mat" contains PSE values for each subject (row 1:10) at baseline (column 1), and in the 4 distractor conditions (CTlow, CThigh, AMlow, AMhigh = columns 2:4)
+"Exp_1_Sigma.mat" contains Sigma values for each subject (row 1:10) at baseline (column 1), and in the 4 distractor conditions (CTlow, CThigh, AMlow, AMhigh = columns 2:4)
+"P_vect_XX.mat" matrices contain choice probability values for each of the 6 comparison stimuli (16, 20, 24, 28, 32, 26 Hz = column 1:6) for all subjects (row 1:10) 
+
+
